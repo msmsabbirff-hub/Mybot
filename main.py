@@ -11,5 +11,5 @@ def send_welcome(message):
 def echo_all(message):
     bot.reply_to(message, message.text)
 if __name__ == '__main__':
-    logging.info("Bot is running...")
- bot.infinity_polling()
+    logging.info("Bot is running..
+bot.infinity_polling()
